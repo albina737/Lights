@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: blueviolet;
+    height: 100vh;
+}
+
+.wrap1 {
+    display: flex;
+    justify-content: center;
+    background-color: burlywood;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 10px;
+}
